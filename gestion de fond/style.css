@@ -1,0 +1,9 @@
+
+body{background-color:RGBa(46,64,83,0.5);
+}
+/*Notre titre h1 aura un fond bleu*/
+h1{background-color:#069;
+}
+/*Notre div aura un fond jaune légérement transparent*/
+div{background-color:RGBa(200,200,0.5)
+}
